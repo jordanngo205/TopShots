@@ -1,0 +1,2205 @@
+
+PERIOD START
+Quarter 1
+0
+-
+0
+Q1
+10:00
+# 1
+Miss 2 Pts
+Kymora Stafford
+1 Kymora Stafford > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts
+0
+-
+0
+Q1
+09:45
+# 21
+Free Throw
+Nehita Oko-Oboh
+21 Nehita Oko-Oboh > Non Possession > Free Throw
+0
+-
+0
+Q1
+09:45
+# 21
+Free Throw
+Nehita Oko-Oboh
+21 Nehita Oko-Oboh > Non Possession > Free Throw
+Rachel Vanderhooft
+10 Rachel Vanderhooft > Cut > Flash > Miss 2 Pts
+# 10
+Miss 2 Pts
+0
+-
+0
+Q1
+09:30
+Izzi Fust
+11 Izzi Fust > Offensive Rebound > Short > Run Offense
+# 11
+Run Offense
+0
+-
+0
+Q1
+09:30
+Cara Misskey
+6 Cara Misskey > Hand Off > From Stationary > Top > Dribble Jumper > Long/3pt > Miss 3 Pts
+# 6
+Miss 3 Pts
+0
+-
+0
+Q1
+09:23
+0
+-
+0
+Q1
+09:23
+# 8
+Miss 3 Pts
+Alyssa Renaud
+8 Ghiselle Poblete > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits > Ball Delivered > 13 Alyssa Renaud > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts
+Izzi Fust
+11 Izzi Fust > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts
+# 11
+Miss 3 Pts
+0
+-
+0
+Q1
+09:23
+Cara Misskey
+6 Cara Misskey > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts
+# 6
+Miss 2 Pts
+0
+-
+0
+Q1
+08:49
+Izzi Fust
+11 Izzi Fust > Offensive Rebound > Short > Run Offense
+# 11
+Run Offense
+0
+-
+0
+Q1
+08:49
+Izzi Fust
+11 Izzi Fust > Spot-Up > Drives Left > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts
+# 11
+Miss 2 Pts
+0
+-
+0
+Q1
+08:49
+Izzi Fust
+11 Izzi Fust > Offensive Rebound > Long > Run Offense
+# 11
+Run Offense
+0
+-
+0
+Q1
+08:49
+Cara Misskey
+12 Jade Belmore > P&R Ball Handler > High P&R > Defense Commits > Ball Delivered > 6 Cara Misskey > Spot-Up > Drives Left > Turnover
+# 12
+Turnover
+0
+-
+0
+Q1
+08:26
+0
+-
+0
+Q1
+08:11
+# 8
+Miss 2 Pts
+Nehita Oko-Oboh
+8 Ghiselle Poblete > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits > Ball Delivered > 21 Nehita Oko-Oboh > P&R Roll Man > Rolls to Basket > Miss 2 Pts
+0
+-
+0
+Q1
+08:11
+# 21
+Miss 2 Pts
+Nehita Oko-Oboh
+21 Nehita Oko-Oboh > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts
+Kyu Fust
+9 Kyu Fust > Spot-Up > Drives Right > To Basket > Miss 2 Pts
+# 9
+Miss 2 Pts
+0
+-
+0
+Q1
+07:58
+0
+-
+0
+Q1
+07:58
+# 21
+Foul
+Nehita Oko-Oboh
+21 Nehita Oko-Oboh > Transition > First Middle > To Basket > Foul
+0
+-
+1
+Q1
+07:58
+# 21
+Free Throw
+Nehita Oko-Oboh
+21 Nehita Oko-Oboh > Non Possession > Free Throw
+0
+-
+2
+Q1
+07:58
+# 21
+Free Throw
+Nehita Oko-Oboh
+21 Nehita Oko-Oboh > Non Possession > Free Throw
+Cara Misskey
+6 Cara Misskey > Non Possession > Non Shooting Foul
+# 6
+Non Shooting Foul
+0
+-
+2
+Q1
+07:58
+Rachel Vanderhooft
+10 Rachel Vanderhooft > Transition > First Middle > To Basket > Miss 2 Pts
+# 10
+Miss 2 Pts
+0
+-
+2
+Q1
+07:38
+0
+-
+5
+Q1
+07:19
+# 8
+Make 3 Pts
+Alyssa Renaud
+8 Ghiselle Poblete > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Ball Delivered > 13 Alyssa Renaud > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts
+Izzi Fust
+11 Izzi Fust > Transition > Left Wing > To Basket > Miss 2 Pts
+# 11
+Miss 2 Pts
+0
+-
+5
+Q1
+07:08
+0
+-
+7
+Q1
+06:55
+# 8
+Make 2 Pts
+Ghiselle Poblete
+8 Ghiselle Poblete > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Make 2 Pts
+Kyu Fust
+9 Kyu Fust > Transition > Left Wing > No Dribble Jumper > Guarded > Short to < 17' > Miss 2 Pts
+# 9
+Miss 2 Pts
+0
+-
+7
+Q1
+06:39
+0
+-
+9
+Q1
+06:32
+# 1
+Make 2 Pts
+Kymora Stafford
+1 Kymora Stafford > Transition > Ballhandler > To Basket > Make 2 Pts
+Rachel Vanderhooft
+10 Rachel Vanderhooft > Transition > First Middle > To Basket > Miss 2 Pts
+# 10
+Miss 2 Pts
+0
+-
+9
+Q1
+06:22
+0
+-
+9
+Q1
+06:22
+# 23
+Free Throw
+Yemi Oladipo
+23 Yemi Oladipo > Non Possession > Free Throw
+0
+-
+10
+Q1
+06:22
+# 23
+Free Throw
+Yemi Oladipo
+23 Yemi Oladipo > Non Possession > Free Throw
+Maddy Seida
+8 Maddy Seida > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts
+# 8
+Miss 3 Pts
+0
+-
+10
+Q1
+05:46
+Brenna Metz
+13 Brenna Metz > Offensive Rebound > Short > Run Offense
+# 13
+Run Offense
+0
+-
+10
+Q1
+05:46
+Cara Misskey
+6 Cara Misskey > Non Possession > Non Shooting Foul
+# 6
+Non Shooting Foul
+0
+-
+10
+Q1
+05:46
+Cara Misskey
+6 Cara Misskey > Off Screen > To Shooter's Left > Flare > Turnover
+# 6
+Turnover
+0
+-
+10
+Q1
+05:28
+0
+-
+10
+Q1
+05:17
+# 8
+Miss 2 Pts
+Ghiselle Poblete
+8 Ghiselle Poblete > P&R Ball Handler > Right P&R > Side > Go Away from Pick > To Basket > Miss 2 Pts
+0
+-
+10
+Q1
+05:12
+# 23
+Miss 3 Pts
+Yemi Oladipo
+23 Yemi Oladipo > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts
+Rachel Vanderhooft
+10 Rachel Vanderhooft > Transition > First Middle > To Basket > Miss 2 Pts
+# 10
+Miss 2 Pts
+0
+-
+10
+Q1
+05:03
+0
+-
+10
+Q1
+04:52
+# 23
+Turnover
+Yemi Oladipo
+23 Yemi Oladipo > Transition > Right Wing > Turnover
+Brenna Metz
+13 Brenna Metz > Cut > Basket > Miss 2 Pts
+# 13
+Miss 2 Pts
+0
+-
+10
+Q1
+04:41
+0
+-
+13
+Q1
+04:34
+# 10
+Make 3 Pts
+Charissa Virr
+10 Charissa Virr > Transition > Left Wing > No Dribble Jumper > Open > Long/3pt > Make 3 Pts
+Rachel Vanderhooft
+10 Rachel Vanderhooft > Transition > First Middle > Turnover
+# 10
+Turnover
+0
+-
+13
+Q1
+04:24
+0
+-
+13
+Q1
+04:17
+# 3
+Miss 2 Pts
+Mya Jickling
+3 Mya Jickling > Post-Up > Left Block > Left Shoulder > Dribble Move > To Basket > Miss 2 Pts
+0
+-
+15
+Q1
+03:44
+# 10
+Make 2 Pts
+Charissa Virr
+10 Charissa Virr > Spot-Up > Drives Right > To Basket > Make 2 Pts
+Kyu Fust
+9 Kyu Fust > Transition > Right Wing > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts
+# 9
+Miss 3 Pts
+0
+-
+15
+Q1
+03:30
+Maddy Seida
+8 Maddy Seida > Offensive Rebound > Long > Scoring Attempt > Short to < 17' > Miss 2 Pts
+# 8
+Miss 2 Pts
+0
+-
+15
+Q1
+03:30
+Kyu Fust
+9 Kyu Fust > Offensive Rebound > Short > Run Offense
+# 9
+Run Offense
+0
+-
+15
+Q1
+03:30
+0
+-
+15
+Q1
+03:16
+# 10
+Foul
+Charissa Virr
+10 Charissa Virr > Offensive Rebound > Short > Scoring Attempt > Short to < 17' > Foul
+0
+-
+16
+Q1
+03:16
+# 10
+Free Throw
+Charissa Virr
+10 Charissa Virr > Non Possession > Free Throw
+Maddy Seida
+8 Maddy Seida > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts
+# 8
+Miss 3 Pts
+0
+-
+16
+Q1
+03:10
+0
+-
+16
+Q1
+02:57
+# 6
+Foul
+Jaime Newell
+6 Jaime Newell > Post-Up > Left Block > Left Shoulder > Dribble Move > To Basket > Foul
+0
+-
+17
+Q1
+02:57
+# 6
+Free Throw
+Jaime Newell
+6 Jaime Newell > Non Possession > Free Throw
+0
+-
+17
+Q1
+02:57
+# 6
+Free Throw
+Jaime Newell
+6 Jaime Newell > Non Possession > Free Throw
+Kyu Fust
+9 Kyu Fust > Hand Off > From Stationary > Top > To Basket > Turnover
+# 9
+Turnover
+0
+-
+17
+Q1
+02:52
+0
+-
+17
+Q1
+02:43
+# 1
+Turnover
+Kymora Stafford
+1 Kymora Stafford > Hand Off > From Dribble > Right > Turnover
+Jade Belmore
+12 Jade Belmore > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts
+# 12
+Miss 2 Pts
+0
+-
+17
+Q1
+02:24
+0
+-
+17
+Q1
+02:13
+# 13
+Miss 2 Pts
+Alyssa Renaud
+13 Alyssa Renaud > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts
+Rachel Vanderhooft
+10 Rachel Vanderhooft > Transition > Trailer > Turnover
+# 10
+Turnover
+0
+-
+17
+Q1
+02:02
+0
+-
+19
+Q1
+01:57
+# 1
+Make 2 Pts
+Kymora Stafford
+1 Kymora Stafford > Transition > Right Wing > To Basket > Make 2 Pts
+0
+-
+19
+Q1
+01:41
+# 13
+Foul
+Alyssa Renaud
+13 Alyssa Renaud > No Play Type > Foul
+0
+-
+20
+Q1
+01:41
+# 13
+Free Throw
+Alyssa Renaud
+13 Alyssa Renaud > Non Possession > Free Throw
+0
+-
+21
+Q1
+01:41
+# 13
+Free Throw
+Alyssa Renaud
+13 Alyssa Renaud > Non Possession > Free Throw
+Kyu Fust
+9 Kyu Fust > Transition > Right Wing > To Basket > Miss 2 Pts
+# 9
+Miss 2 Pts
+0
+-
+21
+Q1
+00:55.0
+0
+-
+21
+Q1
+00:32.0
+# 6
+Miss 2 Pts
+Jaime Newell
+6 Jaime Newell > Spot-Up > Drives Right > To Basket > Miss 2 Pts
+Cara Misskey
+6 Cara Misskey > Transition > Leak Outs > To Basket > Miss 2 Pts
+# 6
+Miss 2 Pts
+0
+-
+21
+Q1
+00:26.0
+0
+-
+21
+Q1
+00:53.0
+# 13
+Miss 3 Pts
+Alyssa Renaud
+13 Alyssa Renaud > Transition > Right Wing > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts
+Jade Belmore
+12 Jade Belmore > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts
+# 12
+Miss 2 Pts
+0
+-
+21
+Q1
+00:04.0
+Jade Belmore
+12 Jade Belmore > No Play Type > To Basket > Make 2 Pts
+# 12
+Make 2 Pts
+2
+-
+21
+Q1
+00:04.0
+PERIOD START
+Quarter 2
+Cara Misskey
+6 Cara Misskey > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Make 2 Pts
+# 6
+Make 2 Pts
+4
+-
+21
+Q2
+10:00
+4
+-
+21
+Q2
+09:38
+# 8
+Turnover
+Ghiselle Poblete
+8 Ghiselle Poblete > Transition > Ballhandler > Turnover
+Jade Belmore
+12 Jade Belmore > Transition > Leak Outs > To Basket > Make 2 Pts
+# 12
+Make 2 Pts
+6
+-
+21
+Q2
+09:35
+6
+-
+21
+Q2
+09:23
+# 23
+Miss 3 Pts
+Yemi Oladipo
+23 Yemi Oladipo > Transition > Left Wing > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts
+Kyu Fust
+9 Kyu Fust > Spot-Up > Drives Left > To Basket > Miss 2 Pts
+# 9
+Miss 2 Pts
+6
+-
+21
+Q2
+09:10
+6
+-
+21
+Q2
+09:10
+# 13
+Miss 2 Pts
+Alyssa Renaud
+13 Alyssa Renaud > Transition > Left Wing > No Dribble Jumper > Open > Short to < 17' > Miss 2 Pts
+Cara Misskey
+6 Cara Misskey > Non Possession > Non Shooting Foul
+# 6
+Non Shooting Foul
+6
+-
+21
+Q2
+09:10
+Brenna Metz
+3 Josie Valley > P&R Ball Handler > Left P&R > Side > Go Away from Pick > Defense Commits > Ball Delivered > 13 Brenna Metz > Cut > Basket > Miss 2 Pts
+# 3
+Miss 2 Pts
+6
+-
+21
+Q2
+08:34
+6
+-
+21
+Q2
+08:25
+# 22
+Turnover
+Gigi Goulet
+22 Gigi Goulet > No Play Type > Turnover
+Taylor Gottselig
+4 Taylor Gottselig > Cut > Basket > Miss 2 Pts
+# 4
+Miss 2 Pts
+6
+-
+21
+Q2
+08:16
+Cara Misskey
+6 Cara Misskey > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts
+# 6
+Miss 3 Pts
+6
+-
+21
+Q2
+08:09
+Cara Misskey
+6 Cara Misskey > Spot-Up > Drives Right > To Basket > Miss 2 Pts
+# 6
+Miss 2 Pts
+6
+-
+21
+Q2
+08:01
+6
+-
+21
+Q2
+07:50
+# 1
+Miss 2 Pts
+Kymora Stafford
+1 Kymora Stafford > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts
+Rachel Vanderhooft
+10 Rachel Vanderhooft > Transition > First Middle > To Basket > Miss 2 Pts
+# 10
+Miss 2 Pts
+6
+-
+21
+Q2
+07:41
+6
+-
+23
+Q2
+07:13
+# 8
+Make 2 Pts
+Ghiselle Poblete
+8 Ghiselle Poblete > P&R Ball Handler > Right P&R > Baseline > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Make 2 Pts
+Brenna Metz
+13 Brenna Metz > Transition > Left Wing > To Basket > Miss 2 Pts
+# 13
+Miss 2 Pts
+6
+-
+23
+Q2
+07:04
+6
+-
+23
+Q2
+06:56
+# 8
+Turnover
+Ghiselle Poblete
+8 Ghiselle Poblete > No Play Type > Turnover
+Cara Misskey
+6 Cara Misskey > Transition > Ballhandler > To Basket > Make 2 Pts
+# 6
+Make 2 Pts
+8
+-
+23
+Q2
+06:42
+8
+-
+23
+Q2
+06:26
+# 1
+Miss 2 Pts
+Kymora Stafford
+1 Kymora Stafford > P&R Ball Handler > High P&R > Go Away from Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts
+Rachel Vanderhooft
+6 Cara Misskey > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Ball Delivered > 10 Rachel Vanderhooft > Cut > Screen > Foul
+# 6
+Foul
+8
+-
+23
+Q2
+06:11
+Rachel Vanderhooft
+10 Rachel Vanderhooft > Non Possession > Free Throw
+# 10
+Free Throw
+9
+-
+23
+Q2
+06:11
+Rachel Vanderhooft
+10 Rachel Vanderhooft > Non Possession > Free Throw
+# 10
+Free Throw
+9
+-
+23
+Q2
+06:11
+9
+-
+25
+Q2
+05:55
+# 1
+1 Pts
+Kymora Stafford
+1 Kymora Stafford > ISO > Top > Drives Right > To Basket > Make 2 Pts Foul > 1 Pts
+9
+-
+26
+Q2
+05:55
+# 1
+Free Throw
+Kymora Stafford
+1 Kymora Stafford > Non Possession > Free Throw
+Cara Misskey
+6 Cara Misskey > Non Possession > Non Shooting Foul
+# 6
+Non Shooting Foul
+9
+-
+26
+Q2
+05:55
+Jade Belmore
+12 Jade Belmore > Cut > Flash > Make 2 Pts
+# 12
+Make 2 Pts
+11
+-
+26
+Q2
+05:34
+11
+-
+29
+Q2
+05:17
+# 8
+Make 3 Pts
+Ghiselle Poblete
+8 Ghiselle Poblete > P&R Ball Handler > Left P&R > Baseline > Go Away from Pick > Dribble Jumper > Long/3pt > Make 3 Pts
+Jade Belmore
+12 Jade Belmore > Transition > First Middle > To Basket > Foul
+# 12
+Foul
+11
+-
+29
+Q2
+05:05
+Jade Belmore
+12 Jade Belmore > Non Possession > Free Throw
+# 12
+Free Throw
+12
+-
+29
+Q2
+05:05
+Jade Belmore
+12 Jade Belmore > Non Possession > Free Throw
+# 12
+Free Throw
+13
+-
+29
+Q2
+05:05
+Jade Belmore
+12 Jade Belmore > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts
+# 12
+Miss 3 Pts
+13
+-
+29
+Q2
+04:47
+13
+-
+29
+Q2
+04:19
+# 8
+Miss 2 Pts
+Ghiselle Poblete
+8 Ghiselle Poblete > P&R Ball Handler > Left P&R > Baseline > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts
+13
+-
+29
+Q2
+04:19
+# 21
+Non Shooting Foul
+Nehita Oko-Oboh
+21 Nehita Oko-Oboh > Non Possession > Non Shooting Foul
+13
+-
+32
+Q2
+04:11
+# 10
+Make 3 Pts
+Charissa Virr
+10 Charissa Virr > Spot-Up > No Dribble Jumper > Open > Long/3pt > Make 3 Pts
+Jade Belmore
+12 Jade Belmore > Transition > Left Wing > To Basket > Miss 2 Pts
+# 12
+Miss 2 Pts
+13
+-
+32
+Q2
+04:01
+13
+-
+32
+Q2
+03:51
+# 21
+Miss 2 Pts
+Nehita Oko-Oboh
+21 Nehita Oko-Oboh > Post-Up > Left Block > Left Shoulder > Dribble Move > To Basket > Miss 2 Pts
+Cara Misskey
+6 Cara Misskey > Transition > Leak Outs > To Basket > Miss 2 Pts
+# 6
+Miss 2 Pts
+13
+-
+32
+Q2
+03:45
+Jade Belmore
+12 Jade Belmore > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts
+# 12
+Miss 2 Pts
+13
+-
+32
+Q2
+03:36
+13
+-
+32
+Q2
+03:16
+# 8
+Miss 3 Pts
+Ghiselle Poblete
+8 Ghiselle Poblete > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts
+Jade Belmore
+12 Jade Belmore > Cut > Basket > Foul
+# 12
+Foul
+13
+-
+32
+Q2
+02:52
+Jade Belmore
+12 Jade Belmore > Non Possession > Free Throw
+# 12
+Free Throw
+14
+-
+32
+Q2
+02:52
+Jade Belmore
+12 Jade Belmore > Non Possession > Free Throw
+# 12
+Free Throw
+15
+-
+32
+Q2
+02:52
+15
+-
+32
+Q2
+02:35
+# 8
+Miss 3 Pts
+Ghiselle Poblete
+8 Ghiselle Poblete > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts
+Jade Belmore
+12 Jade Belmore > Transition > Ballhandler > To Basket > Foul
+# 12
+Foul
+15
+-
+32
+Q2
+02:27
+Jade Belmore
+12 Jade Belmore > Non Possession > Free Throw
+# 12
+Free Throw
+16
+-
+32
+Q2
+02:27
+Jade Belmore
+12 Jade Belmore > Non Possession > Free Throw
+# 12
+Free Throw
+17
+-
+32
+Q2
+02:27
+17
+-
+34
+Q2
+02:21
+# 8
+Make 2 Pts
+Ghiselle Poblete
+8 Ghiselle Poblete > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Short to < 17' > Make 2 Pts
+Jade Belmore
+12 Jade Belmore > No Play Type > Turnover
+# 12
+Turnover
+17
+-
+34
+Q2
+02:07
+17
+-
+34
+Q2
+02:07
+# 10
+Non Shooting Foul
+Charissa Virr
+10 Charissa Virr > Non Possession > Non Shooting Foul
+17
+-
+36
+Q2
+01:54
+# 8
+Make 2 Pts
+Ghiselle Poblete
+8 Ghiselle Poblete > ISO > Left > Drives Left > To Basket > Make 2 Pts
+Alexyn Ward
+5 Alexyn Ward > Cut > Basket > Turnover
+# 5
+Turnover
+17
+-
+36
+Q2
+01:38
+17
+-
+38
+Q2
+01:24
+# 10
+Make 2 Pts
+Charissa Virr
+10 Charissa Virr > ISO > Right > Drives Right > To Basket > Make 2 Pts
+Rachel Vanderhooft
+10 Rachel Vanderhooft > Cut > Flash > Make 2 Pts
+# 10
+Make 2 Pts
+19
+-
+38
+Q2
+01:11
+19
+-
+38
+Q2
+01:10
+# 10
+Turnover
+Charissa Virr
+10 Charissa Virr > Spot-Up > Drives Left > Turnover
+22
+-
+40
+Q2
+00:19.0
+# 8
+Make 2 Pts
+Ghiselle Poblete
+8 Ghiselle Poblete > P&R Ball Handler > High P&R > Go Away from Pick > To Basket > Make 2 Pts
+22
+-
+40
+Q2
+00:08.0
+# 8
+Miss 2 Pts
+Ghiselle Poblete
+8 Ghiselle Poblete > Transition > First Middle > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts
+PERIOD START
+Quarter 3
+22
+-
+40
+Q3
+10:00
+# 1
+Miss 2 Pts
+Kymora Stafford
+1 Kymora Stafford > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts
+Izzi Fust
+6 Cara Misskey > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Ball Delivered > 11 Izzi Fust > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts
+# 6
+Miss 3 Pts
+22
+-
+40
+Q3
+09:41
+22
+-
+40
+Q3
+09:22
+# 8
+Miss 3 Pts
+Ghiselle Poblete
+8 Ghiselle Poblete > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts
+22
+-
+40
+Q3
+09:17
+# 21
+Turnover
+Nehita Oko-Oboh
+21 Nehita Oko-Oboh > No Play Type > Turnover
+22
+-
+40
+Q3
+09:02
+# 21
+Turnover
+Nehita Oko-Oboh
+21 Nehita Oko-Oboh > Transition > Ballhandler > Turnover
+Rachel Vanderhooft
+10 Rachel Vanderhooft > Spot-Up > No Dribble Jumper > Guarded > Medium/17' to <3p > Miss 2 Pts
+# 10
+Miss 2 Pts
+22
+-
+40
+Q3
+08:47
+Cara Misskey
+6 Cara Misskey > P&R Ball Handler > High P&R > Go Away from Pick > To Basket > Miss 2 Pts
+# 6
+Miss 2 Pts
+22
+-
+40
+Q3
+08:33
+22
+-
+40
+Q3
+08:21
+# 21
+Miss 2 Pts
+Nehita Oko-Oboh
+21 Nehita Oko-Oboh > Post-Up > Right Block > Right Shoulder > Dribble Move > To Basket > Miss 2 Pts
+Cara Misskey
+6 Cara Misskey > Spot-Up > No Dribble Jumper > Open > Long/3pt > Make 3 Pts
+# 6
+Make 3 Pts
+25
+-
+40
+Q3
+08:05
+25
+-
+40
+Q3
+07:51
+# 8
+Turnover
+Ghiselle Poblete
+8 Ghiselle Poblete > Transition > Ballhandler > Turnover
+Jade Belmore
+12 Jade Belmore > Transition > First Middle > Turnover
+# 12
+Turnover
+25
+-
+40
+Q3
+07:49
+25
+-
+40
+Q3
+07:49
+# 21
+Non Shooting Foul
+Nehita Oko-Oboh
+21 Nehita Oko-Oboh > Non Possession > Non Shooting Foul
+25
+-
+42
+Q3
+07:21
+# 1
+1 Pts
+Kymora Stafford
+1 Kymora Stafford > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > To Basket > Make 2 Pts Foul > 1 Pts
+25
+-
+43
+Q3
+07:21
+# 1
+Free Throw
+Kymora Stafford
+1 Kymora Stafford > Non Possession > Free Throw
+Jade Belmore
+12 Jade Belmore > Cut > Basket > Foul
+# 12
+Foul
+25
+-
+43
+Q3
+07:08
+Jade Belmore
+12 Jade Belmore > Non Possession > Free Throw
+# 12
+Free Throw
+26
+-
+43
+Q3
+07:08
+Jade Belmore
+12 Jade Belmore > Non Possession > Free Throw
+# 12
+Free Throw
+27
+-
+43
+Q3
+07:08
+27
+-
+43
+Q3
+06:54
+# 22
+Turnover
+Gigi Goulet
+22 Gigi Goulet > Spot-Up > Drives Right > Turnover
+Jade Belmore
+12 Jade Belmore > Cut > Basket > Miss 2 Pts
+# 12
+Miss 2 Pts
+27
+-
+43
+Q3
+06:44
+27
+-
+43
+Q3
+06:44
+# 10
+Non Shooting Foul
+Charissa Virr
+10 Charissa Virr > Non Possession > Non Shooting Foul
+Cara Misskey
+6 Cara Misskey > Non Possession > Non Shooting Foul
+# 6
+Non Shooting Foul
+27
+-
+43
+Q3
+06:44
+Cara Misskey
+6 Cara Misskey > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts
+# 6
+Miss 3 Pts
+27
+-
+43
+Q3
+06:14
+27
+-
+43
+Q3
+06:01
+# 8
+Miss 2 Pts
+Ghiselle Poblete
+8 Ghiselle Poblete > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts
+Jade Belmore
+12 Jade Belmore > Transition > Ballhandler > To Basket > Make 2 Pts
+# 12
+Make 2 Pts
+29
+-
+43
+Q3
+05:54
+29
+-
+45
+Q3
+05:33
+# 8
+Make 2 Pts
+Nehita Oko-Oboh
+8 Ghiselle Poblete > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Ball Delivered > 21 Nehita Oko-Oboh > P&R Roll Man > Rolls to Basket > Make 2 Pts
+Jade Belmore
+12 Jade Belmore > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts
+# 12
+Miss 3 Pts
+29
+-
+45
+Q3
+05:07
+Maddy Seida
+8 Maddy Seida > Offensive Rebound > Long > Run Offense
+# 8
+Run Offense
+29
+-
+45
+Q3
+05:07
+Cara Misskey
+6 Cara Misskey > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Turnover
+# 6
+Turnover
+29
+-
+45
+Q3
+04:58
+29
+-
+45
+Q3
+04:49
+# 21
+Turnover
+Nehita Oko-Oboh
+21 Nehita Oko-Oboh > No Play Type > Turnover
+Maddy Seida
+8 Maddy Seida > Spot-Up > Drives Left > To Basket > Miss 2 Pts
+# 8
+Miss 2 Pts
+29
+-
+45
+Q3
+04:37
+29
+-
+45
+Q3
+04:20
+# 21
+Turnover
+Nehita Oko-Oboh
+21 Nehita Oko-Oboh > No Play Type > Turnover
+Taylor Gottselig
+12 Jade Belmore > P&R Ball Handler > High P&R > Go Away from Pick > Defense Commits > Ball Delivered > 4 Taylor Gottselig > Spot-Up > Drives Right > To Basket > Make 2 Pts
+# 12
+Make 2 Pts
+31
+-
+45
+Q3
+03:56
+31
+-
+45
+Q3
+03:42
+# 7
+Turnover
+Kate Huh
+7 Kate Huh > P&R Ball Handler > Left P&R > Baseline > Dribble Off Pick > Defense Commits > Turnover
+31
+-
+45
+Q3
+03:32
+# 7
+Miss 3 Pts
+Kate Huh
+7 Kate Huh > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts
+Maddy Seida
+8 Maddy Seida > Transition > Right Wing > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts
+# 8
+Miss 3 Pts
+31
+-
+45
+Q3
+03:21
+Maddy Seida
+8 Maddy Seida > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts
+# 8
+Miss 2 Pts
+31
+-
+45
+Q3
+03:21
+Jade Belmore
+12 Jade Belmore > Offensive Rebound > Short > Run Offense
+# 12
+Run Offense
+31
+-
+45
+Q3
+03:21
+Brenna Metz
+13 Brenna Metz > Spot-Up > Drives Right > To Basket > Miss 2 Pts
+# 13
+Miss 2 Pts
+31
+-
+45
+Q3
+03:08
+31
+-
+45
+Q3
+02:59
+# 13
+Miss 3 Pts
+Alyssa Renaud
+13 Alyssa Renaud > Transition > First Middle > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts
+Jade Belmore
+12 Jade Belmore > Transition > Ballhandler > Dribble Jumper > Short to < 17' > Make 2 Pts
+# 12
+Make 2 Pts
+33
+-
+45
+Q3
+02:50
+33
+-
+47
+Q3
+02:31
+# 22
+Make 2 Pts
+Gigi Goulet
+22 Gigi Goulet > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Make 2 Pts
+Jade Belmore
+12 Jade Belmore > Transition > Left Wing > To Basket > Make 2 Pts
+# 12
+Make 2 Pts
+35
+-
+47
+Q3
+02:12
+35
+-
+47
+Q3
+01:54
+# 13
+Miss 2 Pts
+Alyssa Renaud
+13 Alyssa Renaud > P&R Ball Handler > Right P&R > Side > Go Away from Pick > To Basket > Miss 2 Pts
+Taylor Gottselig
+4 Taylor Gottselig > Cut > Basket > Make 2 Pts
+# 4
+Make 2 Pts
+37
+-
+47
+Q3
+01:42
+37
+-
+47
+Q3
+01:38
+# 1
+Foul
+Kymora Stafford
+1 Kymora Stafford > Spot-Up > Drives Left > Foul
+37
+-
+47
+Q3
+01:38
+# 1
+Free Throw
+Kymora Stafford
+1 Kymora Stafford > Non Possession > Free Throw
+37
+-
+47
+Q3
+01:38
+# 1
+Free Throw
+Kymora Stafford
+1 Kymora Stafford > Non Possession > Free Throw
+Kyu Fust
+9 Kyu Fust > Transition > First Middle > To Basket > Foul
+# 9
+Foul
+37
+-
+47
+Q3
+01:19
+Kyu Fust
+9 Kyu Fust > Non Possession > Free Throw
+# 9
+Free Throw
+37
+-
+47
+Q3
+01:19
+Kyu Fust
+9 Kyu Fust > Non Possession > Free Throw
+# 9
+Free Throw
+37
+-
+47
+Q3
+01:19
+37
+-
+47
+Q3
+00:56.0
+# 1
+Miss 3 Pts
+Ghiselle Poblete
+1 Kymora Stafford > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Ball Delivered > 8 Ghiselle Poblete > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts
+Jade Belmore
+12 Jade Belmore > Spot-Up > Drives Left > Dribble Jumper > Short to < 17' > Miss 2 Pts
+# 12
+Miss 2 Pts
+37
+-
+47
+Q3
+00:39.0
+37
+-
+49
+Q3
+00:21.0
+# 6
+Make 2 Pts
+Jaime Newell
+6 Jaime Newell > Cut > Flash > Make 2 Pts
+Kyu Fust
+9 Kyu Fust > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts
+# 9
+Miss 3 Pts
+37
+-
+49
+Q3
+00:04.0
+37
+-
+49
+Q3
+00:04.0
+# 8
+Miss 3 Pts
+Ghiselle Poblete
+8 Ghiselle Poblete > No Play Type > Dribble Jumper > Long/3pt > Miss 3 Pts
+PERIOD START
+Quarter 4
+Kyu Fust
+9 Kyu Fust > Spot-Up > Drives Left > To Basket > Miss 2 Pts
+# 9
+Miss 2 Pts
+37
+-
+49
+Q4
+10:00
+Kyu Fust
+9 Kyu Fust > Offensive Rebound > Short > Run Offense
+# 9
+Run Offense
+37
+-
+49
+Q4
+09:52
+Rachel Vanderhooft
+10 Rachel Vanderhooft > No Play Type > Turnover
+# 10
+Turnover
+37
+-
+49
+Q4
+09:47
+37
+-
+51
+Q4
+09:31
+# 8
+Make 2 Pts
+Ghiselle Poblete
+8 Ghiselle Poblete > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Make 2 Pts
+Brenna Metz
+13 Brenna Metz > Transition > Left Wing > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts
+# 13
+Miss 3 Pts
+37
+-
+51
+Q4
+09:23
+Brenna Metz
+13 Brenna Metz > No Play Type > Turnover
+# 13
+Turnover
+37
+-
+51
+Q4
+09:23
+37
+-
+53
+Q4
+08:49
+# 1
+Make 2 Pts
+Jaime Newell
+1 Kymora Stafford > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Ball Delivered > 6 Jaime Newell > P&R Roll Man > Pick and Pops > Drives Right > To Basket > Make 2 Pts
+Rachel Vanderhooft
+10 Rachel Vanderhooft > Transition > Right Wing > Dribble Jumper > Short to < 17' > Miss 2 Pts
+# 10
+Miss 2 Pts
+37
+-
+53
+Q4
+08:35
+Rachel Vanderhooft
+10 Rachel Vanderhooft > Offensive Rebound > Long > Run Offense
+# 10
+Run Offense
+37
+-
+53
+Q4
+08:35
+Brenna Metz
+13 Brenna Metz > Cut > Basket > Make 2 Pts
+# 13
+Make 2 Pts
+39
+-
+53
+Q4
+08:30
+39
+-
+53
+Q4
+08:08
+# 6
+Miss 3 Pts
+Alyssa Renaud
+6 Jaime Newell > Post-Up > Left Block > Face-up > Drive Middle > Defense Commits > Ball Delivered > 13 Alyssa Renaud > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts
+39
+-
+53
+Q4
+08:08
+# 13
+Run Offense
+Alyssa Renaud
+13 Alyssa Renaud > Offensive Rebound > Long > Run Offense
+39
+-
+53
+Q4
+08:08
+# 1
+Non Shooting Foul
+Kymora Stafford
+1 Kymora Stafford > Non Possession > Non Shooting Foul
+39
+-
+53
+Q4
+07:47
+# 21
+Miss 2 Pts
+Nehita Oko-Oboh
+21 Nehita Oko-Oboh > Post-Up > Left Block > Right Shoulder > Dribble Move > To Basket > Miss 2 Pts
+Jade Belmore
+12 Jade Belmore > No Play Type > Turnover
+# 12
+Turnover
+39
+-
+53
+Q4
+07:36
+39
+-
+53
+Q4
+07:36
+# 8
+Miss 2 Pts
+Ghiselle Poblete
+8 Ghiselle Poblete > P&R Ball Handler > High P&R > Go Away from Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts
+39
+-
+55
+Q4
+07:18
+# 1
+Make 2 Pts
+Kymora Stafford
+1 Kymora Stafford > Spot-Up > Drives Right > Dribble Jumper > Medium/17' to <3p > Make 2 Pts
+Jade Belmore
+12 Jade Belmore > Spot-Up > Drives Left > To Basket > Miss 2 Pts
+# 12
+Miss 2 Pts
+39
+-
+55
+Q4
+07:02
+Rachel Vanderhooft
+10 Rachel Vanderhooft > Offensive Rebound > Short > Turnover
+# 10
+Turnover
+39
+-
+55
+Q4
+07:02
+39
+-
+55
+Q4
+06:43
+# 1
+Miss 2 Pts
+Kymora Stafford
+1 Kymora Stafford > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts
+Kyu Fust
+9 Kyu Fust > Transition > Right Wing > To Basket > Make 2 Pts
+# 9
+Make 2 Pts
+41
+-
+55
+Q4
+06:32
+41
+-
+57
+Q4
+06:15
+# 1
+Make 2 Pts
+Kymora Stafford
+1 Kymora Stafford > Off Screen > To Shooter's Right > Flare > No Dribble Jumper > Guarded > Medium/17' to <3p > Make 2 Pts
+Kyu Fust
+9 Kyu Fust > Hand Off > From Stationary > Right > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts
+# 9
+Miss 3 Pts
+41
+-
+57
+Q4
+05:59
+41
+-
+57
+Q4
+05:44
+# 8
+Miss 2 Pts
+Ghiselle Poblete
+8 Ghiselle Poblete > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts
+41
+-
+57
+Q4
+05:44
+# 3
+Turnover
+Mya Jickling
+3 Mya Jickling > Offensive Rebound > Short > Turnover
+Jade Belmore
+12 Jade Belmore > Non Possession > Non Shooting Foul
+# 12
+Non Shooting Foul
+41
+-
+57
+Q4
+05:44
+Rachel Vanderhooft
+10 Rachel Vanderhooft > No Play Type > Turnover
+# 10
+Turnover
+41
+-
+57
+Q4
+05:23
+41
+-
+57
+Q4
+05:11
+# 1
+Foul
+Nehita Oko-Oboh
+1 Kymora Stafford > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Ball Delivered > 21 Nehita Oko-Oboh > P&R Roll Man > Rolls to Basket > Foul
+41
+-
+58
+Q4
+05:11
+# 21
+Free Throw
+Nehita Oko-Oboh
+21 Nehita Oko-Oboh > Non Possession > Free Throw
+41
+-
+59
+Q4
+05:11
+# 21
+Free Throw
+Nehita Oko-Oboh
+21 Nehita Oko-Oboh > Non Possession > Free Throw
+Jade Belmore
+12 Jade Belmore > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Make 2 Pts
+# 12
+Make 2 Pts
+43
+-
+59
+Q4
+05:00
+43
+-
+59
+Q4
+04:36
+# 8
+Miss 2 Pts
+Ghiselle Poblete
+8 Ghiselle Poblete > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts
+Jade Belmore
+12 Jade Belmore > Non Possession > Non Shooting Foul
+# 12
+Non Shooting Foul
+43
+-
+59
+Q4
+04:36
+Jade Belmore
+12 Jade Belmore > No Play Type > Turnover
+# 12
+Turnover
+43
+-
+59
+Q4
+04:21
+43
+-
+59
+Q4
+04:04
+# 8
+Miss 2 Pts
+Ghiselle Poblete
+8 Ghiselle Poblete > Hand Off > From Stationary > Top > Dribble Jumper > Short to < 17' > Miss 2 Pts
+Maddy Seida
+8 Maddy Seida > P&R Ball Handler > Left P&R > Baseline > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts
+# 8
+Miss 2 Pts
+43
+-
+59
+Q4
+03:49
+Maddy Seida
+12 Jade Belmore > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Ball Delivered > 8 Maddy Seida > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts
+# 12
+Make 3 Pts
+46
+-
+59
+Q4
+03:13
+46
+-
+59
+Q4
+02:56
+# 1
+Miss 2 Pts
+Kymora Stafford
+1 Kymora Stafford > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts
+Jade Belmore
+12 Jade Belmore > Transition > First Middle > To Basket > Make 2 Pts
+# 12
+Make 2 Pts
+48
+-
+59
+Q4
+02:48
+48
+-
+59
+Q4
+02:46
+# 1
+Miss 3 Pts
+Kymora Stafford
+1 Kymora Stafford > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts
+48
+-
+59
+Q4
+02:46
+# 10
+Run Offense
+Charissa Virr
+10 Charissa Virr > Offensive Rebound > Long > Run Offense
+48
+-
+59
+Q4
+02:25
+# 6
+Miss 2 Pts
+Jaime Newell
+6 Jaime Newell > Spot-Up > No Dribble Jumper > Guarded > Medium/17' to <3p > Miss 2 Pts
+48
+-
+59
+Q4
+02:25
+# 6
+Run Offense
+Jaime Newell
+6 Jaime Newell > Offensive Rebound > Long > Run Offense
+48
+-
+59
+Q4
+02:19
+# 1
+Turnover
+Kymora Stafford
+1 Kymora Stafford > Spot-Up > Drives Right > Turnover
+Jade Belmore
+12 Jade Belmore > Transition > Ballhandler > Dribble Jumper > Long/3pt > Make 3 Pts
+# 12
+Make 3 Pts
+51
+-
+59
+Q4
+02:08
+53
+-
+61
+Q4
+01:51
+# 1
+Make 2 Pts
+Nehita Oko-Oboh
+1 Kymora Stafford > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Ball Delivered > 21 Nehita Oko-Oboh > P&R Roll Man > Rolls to Basket > Make 2 Pts
+Jade Belmore
+12 Jade Belmore > No Play Type > Foul
+# 12
+Foul
+53
+-
+61
+Q4
+01:42
+Jade Belmore
+12 Jade Belmore > Non Possession > Free Throw
+# 12
+Free Throw
+52
+-
+59
+Q4
+01:42
+Jade Belmore
+12 Jade Belmore > Non Possession > Free Throw
+# 12
+Free Throw
+53
+-
+59
+Q4
+01:42
+53
+-
+61
+Q4
+01:41
+# 1
+Turnover
+Kymora Stafford
+1 Kymora Stafford > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Turnover
+Maddy Seida
+8 Maddy Seida > Transition > Left Wing > To Basket > Foul
+# 8
+Foul
+53
+-
+61
+Q4
+01:38
+Maddy Seida
+8 Maddy Seida > Non Possession > Free Throw
+# 8
+Free Throw
+54
+-
+61
+Q4
+01:38
+Maddy Seida
+8 Maddy Seida > Non Possession > Free Throw
+# 8
+Free Throw
+54
+-
+61
+Q4
+01:38
+54
+-
+61
+Q4
+01:24
+# 1
+Foul
+Ghiselle Poblete
+1 Kymora Stafford > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Ball Delivered > 8 Ghiselle Poblete > Spot-Up > Drives Right > To Basket > Foul
+54
+-
+61
+Q4
+01:24
+# 8
+Free Throw
+Ghiselle Poblete
+8 Ghiselle Poblete > Non Possession > Free Throw
+54
+-
+62
+Q4
+01:24
+# 8
+Free Throw
+Ghiselle Poblete
+8 Ghiselle Poblete > Non Possession > Free Throw
+Brenna Metz
+13 Brenna Metz > Cut > Basket > Miss 2 Pts
+# 13
+Miss 2 Pts
+54
+-
+62
+Q4
+01:21
+54
+-
+62
+Q4
+01:05
+# 1
+Miss 2 Pts
+Kymora Stafford
+1 Kymora Stafford > Hand Off > From Dribble > Left > To Basket > Miss 2 Pts
+Jade Belmore
+12 Jade Belmore > Transition > Trailer > Dribble Jumper > Long/3pt > Make 3 Pts
+# 12
+Make 3 Pts
+57
+-
+62
+Q4
+00:57.0
+57
+-
+62
+Q4
+00:42.0
+# 8
+Miss 2 Pts
+Ghiselle Poblete
+8 Ghiselle Poblete > P&R Ball Handler > High P&R > Go Away from Pick > To Basket > Miss 2 Pts
+Jade Belmore
+12 Jade Belmore > Transition > Ballhandler > Foul
+# 12
+Foul
+57
+-
+62
+Q4
+00:38.0
+Jade Belmore
+12 Jade Belmore > Non Possession > Free Throw
+# 12
+Free Throw
+58
+-
+62
+Q4
+00:38.0
+Jade Belmore
+12 Jade Belmore > Non Possession > Free Throw
+# 12
+Free Throw
+59
+-
+62
+Q4
+00:38.0
+59
+-
+62
+Q4
+00:13.0
+# 8
+Miss 3 Pts
+Ghiselle Poblete
+8 Ghiselle Poblete > P&R Ball Handler > High P&R > Go Away from Pick > Dribble Jumper > Long/3pt > Miss 3 Pts
+59
+-
+62
+Q4
+00:11.0
+# 8
+Foul
+Ghiselle Poblete
+8 Ghiselle Poblete > Offensive Rebound > Long > Foul
+59
+-
+63
+Q4
+00:11.0
+# 8
+Free Throw
+Ghiselle Poblete
+8 Ghiselle Poblete > Non Possession > Free Throw
+59
+-
+64
+Q4
+00:11.0
+# 8
+Free Throw
+Ghiselle Poblete
+8 Ghiselle Poblete > Non Possession > Free Throw
